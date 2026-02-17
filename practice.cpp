@@ -11,5 +11,5 @@ int main(){
     }
     cout<<count;
     
-    cout<<"hello worlf hi comm  freo[gndfhgpregverit 6";
+    cout<<"hello worlf hi fsdi;gv comm  freo[gndfhgpregverit 6";
 }
